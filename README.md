@@ -2,6 +2,7 @@
 Acrylic Staked case for Type65+ for those who have spare PCB.
 
 # Hardware
+Listed quantity are just right, better get more.
 |   | Hardware | Size | Length | Quantity | Remarks |
 |---|---|---|---|---|---|
 | 1 | Screw | M2 | 5MM | 16 | For bottom layer and attach feet part |
