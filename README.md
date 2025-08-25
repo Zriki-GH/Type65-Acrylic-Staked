@@ -1,5 +1,5 @@
 # Type65-Acrylic-Staked
-Acrylic Staked case for Type65+ for those who have spare PCB. 
+Acrylic Staked case for Type65+ for those who have spare PCB and plate. 
 
 # Why not EPDM Strip like the original instead of Gasket Strip?
 EPDM gasket are harder to put together and it just as goood as Gasket Strip.
