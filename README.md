@@ -2,7 +2,7 @@
 Acrylic Staked case for Type65+ for those who have spare PCB. 
 
 # Why not EPDM Strip like the original instead of Gasket Strip?
--EPDM gasket are harder to put together and it just as goood as Gasket Strip.
+EPDM gasket are harder to put together and it just as goood as Gasket Strip.
 
 # Hardware
 The listed quantity is just enough — it’s better to grab extras just in case.
