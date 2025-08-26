@@ -16,7 +16,10 @@ The listed quantity is just enough — it’s better to grab extras just in case
 | 9 | Gasket strip (2MM thick) | - | - | 8 | Thinner strip at the top. |
 | 10 | Gasket strip (4/5MM thick) | - | - | 8 | Thicker strip at the bottom. |
 
-
+Here's the type of screw, standoff, and nut I used.
+![](Hardwares/Screw.JPG)
+![](Hardwares/Standoff%20Spacer(Female%20to%20Female).JPG)
+![](Hardwares/Hex%20Nut.JPG)
 
 # Layer 1
 ![](Drawing%20Preview/Layer1.JPG)
