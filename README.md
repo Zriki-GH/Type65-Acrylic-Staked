@@ -5,8 +5,7 @@ Acrylic Staked case for Type65+ for those who have spare PCB and plate.
 The listed quantity is just enough — it’s better to grab extras just in case.
 |   | Hardware | Size | Length | Quantity | Remarks |
 |---|---|---|---|---|---|
-| 1 | Screw | M2 | 5MM | 16 | For bottom layer and attach feet part |
-| 2 | Screw | M2 | 8MM | 8 | For the feet. |
+| 1 | Screw | M2 | 6MM | 24 | For bottom layer & feet and to attach feet. |
 | 3 | Screw | M2 | 10MM | 12 | For top layer. |
 | 4 | Screw | M2 | 14MM | 4 | For thicker bottom layer near daugther board |
 | 5 | Standoff Spacer(Female to Female) | M2 | 10MM | 12 | For case layer. |
